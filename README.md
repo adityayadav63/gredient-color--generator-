@@ -1,2 +1,2 @@
 # gredient-color--generator-
-my frist project upload in github account.
+my frist git repository. author - aditya yadav
